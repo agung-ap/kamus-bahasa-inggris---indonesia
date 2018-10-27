@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kamus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="GET_SELECTED_VOCAB">vocab</string>
+    <string name="delete_alert">Anda Yakin Mau Menghapus Ini ?</string>
+    <string name="isEnglish">isEnglish</string>
+    <string name="isEdit">isEdit</string>
+    <string name="app_first_run">first_run</string>
+    <string name="share">share</string>
+</resources>
